@@ -1,5 +1,7 @@
 # Hungry Kirby
 
+![Gameplay](Screenshots/HK_gif1.gif)
+
 **Hungry Kirby** is a physics-based puzzle game built in **Unity 2D**.
 
 ## Gameplay
@@ -49,6 +51,15 @@ Solve environmental puzzles to guide the candy-like Star into Kirby's waiting mo
 
 ### Audio
 - **`BackgroundMusicManager.cs` / `MusicInitializer.cs`**: Persists background music across scene loads.
+
+## Gallery
+
+![Gameplay Extra](Screenshots/HK_gif2.gif)
+
+| | |
+|:---:|:---:|
+| ![Screenshot 1](Screenshots/HK_1.jpg) | ![Screenshot 2](Screenshots/HK_2.jpg) |
+| ![Screenshot 3](Screenshots/HK_3.jpg) | ![Screenshot 4](Screenshots/HK_4.jpg) |
 
 ## License
 
